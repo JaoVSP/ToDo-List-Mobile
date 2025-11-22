@@ -1,0 +1,5 @@
+![login](https://github.com/user-attachments/assets/0d8c731c-ec99-4b5b-ab13-eb3cbbef119a)
+![cadastro](https://github.com/user-attachments/assets/fb79bd47-a932-442d-8d7c-037b718841a6)
+![calendario](https://github.com/user-attachments/assets/5d9732cf-b690-497a-9e02-3c25fdf86489)
+![tarefas](https://github.com/user-attachments/assets/7b46b41b-d2ba-4893-8094-5c469a9cc4a8)
+![add](https://github.com/user-attachments/assets/e1f3b307-4982-47ce-b4b2-c59b330479a4)
